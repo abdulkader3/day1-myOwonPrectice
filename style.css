@@ -25,3 +25,12 @@
     background: #ffd900;
     color: rebeccapurple;
 }
+.dev-3{
+    width: 100%;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #00ddff;
+    color: black;
+}
